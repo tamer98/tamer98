@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,arduino,c,eclipse,github,linux,mysql,py,r,unity,visualstudio,vscode,wordpress&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,arduino,c,eclipse,github,linux,mysql,py,r,unity,visualstudio,vscode,selenium,wordpress&theme=light)](https://skillicons.dev)
 
 
 
