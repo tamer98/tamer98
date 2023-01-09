@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tamer98)](https://github.com/tamer98)
 
-![](https://komarev.com/ghpvc/?username=your-github-tamer98)
+
