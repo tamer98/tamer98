@@ -14,8 +14,8 @@ tamer98/tamer98 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
  -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamer98&layout=compact)](https://github.com/tamer98)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamer98&layout=compact)](https://github.com/tamer9)
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tamer98)](https://github.com/tamer98)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tamer98)](https://github.com/tamer9)
 
 
