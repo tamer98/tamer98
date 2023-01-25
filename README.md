@@ -1,6 +1,11 @@
-[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,arduino,c,eclipse,github,linux,mysql,py,r,unity,visualstudio,vscode,selenium,wordpress&theme=light)](https://skillicons.dev)
-
-
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,androidstudio,arduino,r,c,eclipse,github,linux,mysql,py,r,unity,visualstudio,vscode,selenium,wordpress&theme=light&)](https://skillicons.dev)
+ -->
+ 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,arduino,r,c,eclipse,github,linux,mysql,py,r,unity,visualstudio,vscode,selenium,wordpress&theme=dark&" />
+  </a>
+</p>
 
 
 <!-- - 👋 Hi, I’m @tamer98
