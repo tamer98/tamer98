@@ -1,4 +1,4 @@
-<!-- [![My Skills](https://skillicons.dev/icons?i=java,androidstudio,arduino,r,c,eclipse,github,linux,mysql,py,r,unity,visualstudio,vscode,selenium,bash,wordpress&theme=light&)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,androidstudio,arduino,r,c,eclipse,github,linux,mysql,bash,py,r,unity,visualstudio,vscode,bash,selenium,wordpress&theme=light&)](https://skillicons.dev)
  -->
  
 <p align="center">
